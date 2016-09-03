@@ -1,0 +1,15 @@
+.number {
+  	float: left;
+  	margin: 10px;
+  	border: 5px solid #fff;
+	text-align: center;
+    font-size: 12px;
+    font-weight: 700;
+    color: #000;
+ 
+    -webkit-transition: box-shadow 0.5s ease;
+    -moz-transition: box-shadow 0.5s ease;
+    -o-transition: box-shadow 0.5s ease;
+    -ms-transition: box-shadow 0.5s ease;
+    transition: box-shadow 0.5s ease;
+}
